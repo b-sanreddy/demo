@@ -5,4 +5,4 @@
 ##creating file
 
 
-adding new content to the file after branching
+updating new content to the file after branching
