@@ -1,1 +1,2 @@
-ne file for test
+new file for test
+checking the content
