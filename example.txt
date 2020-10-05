@@ -1,3 +1,0 @@
-new file for test
-checking the content
-renamed to example.txt
